@@ -3,6 +3,9 @@
 # You can use it as a starting point and customize it to your needs.
 # For more details see https://docs.reviewpad.com/guides/syntax.
 
+mode: verbose # optional
+metrics-on-merge: true
+
 # Define the list of labels to be used by Reviewpad.
 # For more details see https://docs.reviewpad.com/guides/syntax#label.
 labels:
